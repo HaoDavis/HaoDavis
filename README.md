@@ -1,6 +1,10 @@
 ### Hello, I'm HaoDavis 👋
 - 🔭 I’m currently working on multi-modal neural networks.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HaoDavis&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoDavis&theme=dark&layout=compact)
+
 <!--
 **HaoDavis/HaoDavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
